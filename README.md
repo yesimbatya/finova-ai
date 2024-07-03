@@ -1,1 +1,1 @@
-# wealthyway-ai
+AI-financial assistant
